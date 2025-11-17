@@ -1,7 +1,17 @@
-{
-  "users": [
-    {"id":1,"name":"Alice Kim","age":22,"email":"alice@example.com"},
-    {"id":2,"name":"Boris Ivanov","age":29,"email":"boris@example.com"},
-    {"id":3,"name":"Chen Li","age":31,"email":"chen@example.com"}
-  ]
-}
+[
+  {
+    "id": 101,
+    "title": "The Last Horizon",
+    "rating": 8.4
+  },
+  {
+    "id": 102,
+    "title": "Shadow Protocol",
+    "rating": 7.9
+  },
+  {
+    "id": 103,
+    "title": "City of Echoes",
+    "rating": 8.1
+  }
+]
