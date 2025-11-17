@@ -1,11 +1,20 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "name": "Alice Kim",
+    "age": 22,
+    "email": "alice@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Boris Ivanov",
+    "age": 29,
+    "email": "boris@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Chen Li",
+    "age": 31,
+    "email": "chen@example.com"
   }
-}
+]
