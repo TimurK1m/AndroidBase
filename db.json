@@ -29,17 +29,6 @@
     {"id":27,"name":"Chen Li","age":31,"email":"chen@example.com"},
     {"id":28,"name":"Alice Kim","age":22,"email":"alice@example.com"},
     {"id":29,"name":"Boris Ivanov","age":29,"email":"boris@example.com"},
-    {"id":30,"name":"Chen Li","age":31,"email":"chen@example.com"},
-    {"id":31,"name":"Alice Kim","age":22,"email":"alice@example.com"},
-    {"id":32,"name":"Boris Ivanov","age":29,"email":"boris@example.com"},
-    {"id":33,"name":"Chen Li","age":31,"email":"chen@example.com"},
-    {"id":34,"name":"Alice Kim","age":22,"email":"alice@example.com"},
-    {"id":35,"name":"Boris Ivanov","age":29,"email":"boris@example.com"},
-    {"id":36,"name":"Chen Li","age":31,"email":"chen@example.com"},
-    {"id":37,"name":"Alice Kim","age":22,"email":"alice@example.com"},
-    {"id":38,"name":"Boris Ivanov","age":29,"email":"boris@example.com"},
-    {"id":39,"name":"Chen Li","age":31,"email":"chen@example.com"},
-    {"id":40,"name":"Alice Kim","age":22,"email":"alice@example.com"},
-    {"id":41,"name":"Boris Ivanov","age":29,"email":"boris@example.com"}
+    {"id":30,"name":"Chen Li","age":31,"email":"chen@example.com"}
   ]
 }
